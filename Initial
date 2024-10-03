@@ -1,3 +1,4 @@
+<html>
 <div class="container">
   <div class="intro-text">
   <div class="switch-wrapper">
@@ -537,3 +538,6 @@ table .hide {
 }
 
 </style>
+
+</html>
+
